@@ -3,7 +3,7 @@
 @section('title', 'Anasayfa - ' . config('app.name'))
 
 @section('content')
-    <section class="bg-gradient-to-r from-red-700 to-red-500 rounded-2xl p-8 md:p-12 text-white mb-12">
+    <section class="bg-gradient-to-r from-red-900 to-red-700 rounded-2xl p-8 md:p-12 text-white mb-12">
         <h1 class="text-3xl md:text-4xl font-bold mb-4">İstanbul'dan Dünyaya Baharat Yolculuğu</h1>
         <p class="text-lg text-white/90 mb-6">Doğal ve premium baharatlarla mutfaklarınıza lezzet katın.</p>
         <a href="{{ route('products.index') }}" class="inline-block px-6 py-3 bg-white text-red-700 font-semibold rounded-lg hover:bg-slate-100">Ürünleri Keşfet</a>
