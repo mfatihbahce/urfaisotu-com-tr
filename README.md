@@ -48,3 +48,4 @@ Laravel 10 tabanlı baharat e-ticaret sistemi. Türkçe, MySQL veritabanı kulla
 ## Not
 
 - Otomatik deploy webhook testi icin guncellendi.
+- Webhook push testi 2026-03-25 19:58 icin yenilendi.
