@@ -44,3 +44,7 @@ Laravel 10 tabanlı baharat e-ticaret sistemi. Türkçe, MySQL veritabanı kulla
 - MySQL
 - Tailwind CSS (CDN)
 - Breeze (auth)
+
+## Not
+
+- Otomatik deploy webhook testi icin guncellendi.
