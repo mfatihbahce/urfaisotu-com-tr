@@ -1,7 +1,7 @@
-@props(['product', 'accent' => 'primary'])
+@props(['product', 'accent' => 'red'])
 
 @php
-    // "accent" sadece anasayfa gibi belirli sayfalarda tema rengini değiştirmek için kullanılır.
+    // Kart içi "vurgular" (Sepete Ekle, hover aksiyonları) için renk modu.
     $isRedAccent = $accent === 'red';
 @endphp
 
