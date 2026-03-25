@@ -1,0 +1,7 @@
+{
+    "Reset Password Notification": "Şifre Sıfırlama Bildirimi",
+    "You are receiving this email because we received a password reset request for your account.": "Hesabınız için bir şifre sıfırlama talebi aldığımız için bu e-postayı alıyorsunuz.",
+    "Reset Password": "Şifreyi Sıfırla",
+    "This password reset link will expire in :count minutes.": "Bu şifre sıfırlama bağlantısı :count dakika içinde geçerliliğini yitirecektir.",
+    "If you did not request a password reset, no further action is required.": "Şifre sıfırlama talebinde bulunmadıysanız, herhangi bir işlem yapmanıza gerek yoktur."
+}
