@@ -16,7 +16,7 @@
                 <form method="get" class="mt-4">
                     @if(request('category'))<input type="hidden" name="category" value="{{ request('category') }}">@endif
                     <input type="search" name="search" value="{{ request('search') }}" placeholder="Ara..." class="w-full rounded-lg border border-slate-200 px-3 py-2 text-sm">
-                    <button type="submit" class="mt-2 w-full py-2 bg-red-600 text-white rounded-lg text-sm font-medium hover:bg-red-700 transition-colors">Ara</button>
+                    <button type="submit" class="mt-2 w-full py-2 bg-red-700 text-white rounded-lg text-sm font-medium hover:bg-red-800 transition-colors">Ara</button>
                 </form>
             </div>
         </aside>
